@@ -5,18 +5,19 @@
     where the relentless precision of mechatronics, the boundless creativity of programming, and digital security converge in a constantly       evolving world! 🌍💡✨
   </h3>
 </div
-<div id="badges" align="center">
+<div id="badges" style="text-align: center;">
   <a href="https://twitter.com/FREDERICKLOZA14" target="_blank">
-  <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFREDERICKLOZA14&style=piso&logo=twitter&logoColor=azul&label=TWITTER&color=abcdef"
-  alt="Twitter badge" />
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFREDERICKLOZA14&style=piso&logo=twitter&logoColor=azul&label=TWITTER&color=abcdef"
+    alt="Twitter badge" />
   </a>
-   <a href="https://www.youtube.com/channel/UCUiCC8V7dfOqVDS-1pG_5tg" target="_blank">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCUiCC8V7dfOqVDS-1pG_5tg?label=YouTube"
-  alt="YouTube badge" />
-   </a>
+  <a href="https://www.youtube.com/channel/UCUiCC8V7dfOqVDS-1pG_5tg" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCUiCC8V7dfOqVDS-1pG_5tg?label=YouTube"
+    alt="YouTube badge" />
+  </a>
 </div>
+
 <p>
-<h2> 👨‍💻About Me: </h2>
+<h2> 👨‍💻More About Me: </h2>
 💡 How can I assist you?
 If you have any questions about electronics or mechatronics projects, feel free to ask! I'm willing to provide guidance and a different perspective. Collaboration and knowledge exchange is crucial for growth in our community.
   
