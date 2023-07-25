@@ -18,16 +18,16 @@
 
 
 <p><h2> 👨‍💻More About Me: </h2></p>
-<b> - 💡 How can I assist you?</b>
+<b> &bull; 💡 How can I assist you?</b>
 If you have any questions about electronics or mechatronics projects, feel free to ask! I'm willing to provide guidance and a different perspective. Collaboration and knowledge exchange is crucial for growth in our community.
   
-<b> - 🔧 Skills and Learning:</b>
+<b> &bull; 🔧 Skills and Learning:</b>
 I'm learning about Ethical Hacking, Python, JavaScript, C++, HTML, and CSS. I love tackling new challenges and exploring technologies to enhance my skills.
 
-<b> - 🌱 Continuous Learning:</b>
+<b> &bull; 🌱 Continuous Learning:</b>
 I strongly believe in continuous learning to grow both personally and professionally. I seek opportunities to improve and stay updated on engineering and technology.
 
-<b> - 📢 Let's Connect!</b>
+<b> &bull; 📢 Let's Connect!</b>
 If you want to collaborate on projects or chat about technology, I'd be delighted to get to know you! You can reach me at [Gmail](ingfredericklozano@gmail.com)
 
 Thank you for visiting my profile! I hope you enjoy exploring my projects and educational content! 😊🚀
