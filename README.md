@@ -3,7 +3,7 @@
   <h1>Hi 👋, I'm Elingelozano</h1>
   <h3>
 
-Hi there! 👋 I'm Frederick Lozano, and on some social media, I go by "El Inge Lozano."
+Hi there! 👋 My name is Frederick Lozano, and on some social media, I go by "El Inge Lozano."
 Passionate Mechatronic Engineering student and enthusiast of cybersecurity and programming. Ready to amaze you with innovative solutions to technological challenges. 💥💡 Always eager to learn and grow, skillfully blending creativity with technology to build a constantly evolving world. 🌍💡✨
  </h3>
 </div>
