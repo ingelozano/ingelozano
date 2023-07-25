@@ -15,7 +15,7 @@
   alt="YouTube badge" />
    </a>
 </div>
----
+<p>
 ### 👨‍💻About Me:
 💡 How I can help:
 If you have questions or are interested in electronics or mechatronics projects, feel free to ask! I'm more than happy to offer guidance or provide a different perspective for your ideas. Collaboration and knowledge sharing are key to growth in our community.
@@ -29,4 +29,4 @@ I firmly believe in continuous learning as a path to personal and professional g
 📢 Let's Connect!
 If you want to collaborate on projects, share knowledge, or simply chat about technology, I'd be delighted to get to know you! You can contact me via email at ingfredericklozano@gmail.com.
 
-Thank you for visiting my profile! I hope you enjoy exploring my projects and educational content. Let's build amazing things together! 😊
+Thank you for visiting my profile! I hope you enjoy exploring my projects and educational content. Let's build amazing things together! 😊</p>
