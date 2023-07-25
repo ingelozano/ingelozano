@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://giphy.com/gifs/13HgwGsXF0aiGY" width="200"/>
   <h1 aling="center"> Hi 👋, I'm Elingelozano</h1>
   <h3 aling="center">🔧🤖📚 Passionate Mechatronic Engineer ready to amaze you! 💥💡 Tireless apprentice in cybersecurity and enthusiast       of robotics and programming. 🚀 I skillfully merge electrical, mechanical, and software engineering to overcome technological               challenges. 💪💻 Committed to excellence, innovation, and the flawless protection of systems and data. 🔒 Welcome to my profile, 
