@@ -18,7 +18,7 @@
 
 
 <p><h2> 👨‍💻More About Me: </h2></p>
-<p> -💡 How can I assist you?</p>
+-💡 How can I assist you?
 If you have any questions about electronics or mechatronics projects, feel free to ask! I'm willing to provide guidance and a different perspective. Collaboration and knowledge exchange is crucial for growth in our community.
   
 - 🔧 Skills and Learning:
