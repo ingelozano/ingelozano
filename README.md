@@ -1,8 +1,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/3o7bu9HvCRRp7MjpT2/giphy.gif" width="200"/>
   <h1>Hi 👋, I'm Elingelozano</h1>
-  <h3>🔧🤖📚 Passionate Mechatronic Engineer ready to amaze you! 💥💡 Tireless apprentice in cybersecurity and enthusiast of robotics and programming. 🚀 I skillfully merge electrical, mechanical, and software engineering to overcome technological challenges. 💪💻 Committed to excellence, innovation, and the flawless protection of systems and data. 🔒 Welcome to my profile, where the relentless precision of mechatronics, the boundless creativity of programming, and digital security converge in a constantly evolving world! 🌍💡✨
-  </h3>
+  <h3>
+
+Hi there! 👋 I'm Frederick Lozano, and on some social media, I go by "El Inge Lozano."
+Passionate Mechatronic Engineering student and enthusiast of cybersecurity and programming. Ready to amaze you with innovative solutions to technological challenges. 💥💡 Always eager to learn and grow, skillfully blending creativity with technology to build a constantly evolving world. 🌍💡✨
+ </h3>
 </div>
 
 <div align="center">
