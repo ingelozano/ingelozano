@@ -10,22 +10,23 @@
   <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FFREDERICKLOZA14&style=piso&logo=twitter&logoColor=azul&label=TWITTER&color=abcdef"
   alt="Twitter badge" />
   </a>
+   <a href="https://www.youtube.com/channel/UCUiCC8V7dfOqVDS-1pG_5tg" target="_blank">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCUiCC8V7dfOqVDS-1pG_5tg?label=YouTube"
+  alt="YouTube badge" />
+   </a>
 </div>
+---
+### 👨‍💻About Me:
+💡 How I can help:
+If you have questions or are interested in electronics or mechatronics projects, feel free to ask! I'm more than happy to offer guidance or provide a different perspective for your ideas. Collaboration and knowledge sharing are key to growth in our community.
 
+🔧 Skills and Learning:
+Currently, I'm learning about Ethical Hacking, Python, JavaScript, C++, HTML, and CSS... I enjoy diving into new challenges and exploring different technologies to expand my skill set.
 
+🌱 Continuous Learning:
+I firmly believe in continuous learning as a path to personal and professional growth. I'm always seeking opportunities to improve and stay up-to-date with the latest trends and advancements in engineering and technology.
 
+📢 Let's Connect!
+If you want to collaborate on projects, share knowledge, or simply chat about technology, I'd be delighted to get to know you! You can contact me via email at ingfredericklozano@gmail.com.
 
-<!--
-**ingelozano/ingelozano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile! I hope you enjoy exploring my projects and educational content. Let's build amazing things together! 😊
