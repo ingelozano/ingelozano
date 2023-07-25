@@ -28,7 +28,7 @@ I'm learning about Ethical Hacking, Python, JavaScript, C++, HTML, and CSS. I lo
 I strongly believe in continuous learning to grow both personally and professionally. I seek opportunities to improve and stay updated on engineering and technology.
 
 📢 Let's Connect!
-If you want to collaborate on projects or chat about technology, I'd be delighted to get to know you! You can reach me at [ingfredericklozano@gmail.com]
+If you want to collaborate on projects or chat about technology, I'd be delighted to get to know you! You can reach me at ingfredericklozano@gmail.com
 
 Thank you for visiting my profile! I hope you enjoy exploring my projects and educational content! 😊🚀
 </p>
