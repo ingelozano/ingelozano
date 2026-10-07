@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 1300" width="1280" height="1300" role="img" aria-labelledby="titulo descripcion"><title id="titulo">Proyectos destacados de Frederick Lozano</title><desc id="descripcion">ESCUDO Inspector, OpenScout, CreditCoach y Garaje Android: desarrollo activo y privados. Acceso-Controlado: prototipo público. Descripciones limitadas a propósito y capacidades generales verificadas.</desc>
+<defs><linearGradient id="fondo" x2="1" y2="1"><stop stop-color="#0b111e"/><stop offset="1" stop-color="#171329"/></linearGradient><linearGradient id="acento"><stop stop-color="#48e7ef"/><stop offset=".5" stop-color="#5495ff"/><stop offset="1" stop-color="#af87ff"/></linearGradient><radialGradient id="halo"><stop stop-color="#446bdd" stop-opacity=".28"/><stop offset="1" stop-color="#446bdd" stop-opacity="0"/></radialGradient><pattern id="rejilla" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#75a5f5" stroke-opacity=".08"/></pattern><filter id="brillo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect x="1" y="1" width="1278" height="1298" rx="24" fill="url(#fondo)" stroke="#334568" stroke-width="1"/>
+<rect x="1" y="1" width="1278" height="1298" rx="24" fill="url(#rejilla)" stroke="none" stroke-width="1"/>
+<ellipse cx="1062.3999999999999" cy="286.0" rx="614.4" ry="909.9999999999999" fill="url(#halo)"/>
+<path d="M26 2H1254" stroke="url(#acento)" stroke-width="3"/>
+<rect x="24" y="24" width="604" height="399" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="25" y="42" width="4" height="363" rx="2" fill="#48e7ef" stroke="none" stroke-width="1"/>
+<g transform="translate(48 48) scale(0.875)" fill="none" stroke="#48e7ef" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M32 5 55 14v17c0 13-10 22-23 28C19 53 9 44 9 31V14Z"/><path d="m20 31 8 8 16-18"/></g>
+<text id="texto-000" x="125" y="85" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#f1f6ff" text-anchor="start">ESCUDO Inspector</text>
+<text id="texto-001" x="48" y="133" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#48e7ef" text-anchor="start">Seguridad comprensible</text>
+<text id="texto-002" x="48" y="179" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">Comprender el estado de un dispositivo Android</text>
+<text id="texto-003" x="48" y="210" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">sin depender de análisis remotos.</text>
+<text id="texto-004" x="48" y="259" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">Inspección autorizada, análisis local y hallazgos</text>
+<text id="texto-005" x="48" y="290" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">de seguridad sustentados en evidencia.</text>
+<path d="M48 331L604 331" stroke="#48e7ef" stroke-width="1" opacity="0.45" fill="none"/>
+<text id="texto-006" x="48" y="365" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#b8c7d9" text-anchor="start">Rust · TypeScript · Tauri</text>
+<text id="texto-007" x="48" y="399" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#48e7ef" text-anchor="start">PRIVADO · DESARROLLO ACTIVO</text>
+<rect x="652" y="24" width="604" height="399" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="653" y="42" width="4" height="363" rx="2" fill="#5495ff" stroke="none" stroke-width="1"/>
+<g transform="translate(676 48) scale(0.875)" fill="none" stroke="#5495ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="27" cy="27" r="18"/><path d="m41 41 17 17M17 26h20M27 17v20"/></g>
+<text id="texto-008" x="753" y="85" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#f1f6ff" text-anchor="start">OpenScout</text>
+<text id="texto-009" x="676" y="133" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#5495ff" text-anchor="start">Descubrimiento con evidencia</text>
+<text id="texto-010" x="676" y="179" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">Elegir repositorios que respondan a una</text>
+<text id="texto-011" x="676" y="210" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">necesidad técnica concreta.</text>
+<text id="texto-012" x="676" y="259" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">Descubre y clasifica proyectos de código abierto</text>
+<text id="texto-013" x="676" y="290" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">mediante metadatos y evidencia de sus</text>
+<text id="texto-014" x="676" y="321" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">README.</text>
+<path d="M676 331L1232 331" stroke="#5495ff" stroke-width="1" opacity="0.45" fill="none"/>
+<text id="texto-015" x="676" y="365" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#b8c7d9" text-anchor="start">TypeScript · Next.js</text>
+<text id="texto-016" x="676" y="399" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#5495ff" text-anchor="start">PRIVADO · DESARROLLO ACTIVO</text>
+<rect x="24" y="447" width="604" height="399" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="25" y="465" width="4" height="363" rx="2" fill="#af87ff" stroke="none" stroke-width="1"/>
+<g transform="translate(48 471) scale(0.875)" fill="none" stroke="#af87ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="10" width="50" height="44" rx="7"/><path d="M7 22h50M16 34h12m-12 9h19"/><rect x="39" y="33" width="13" height="14" rx="3"/><path d="M42 33v-4a4 4 0 0 1 8 0v4"/></g>
+<text id="texto-017" x="125" y="508" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#f1f6ff" text-anchor="start">CreditCoach</text>
+<text id="texto-018" x="48" y="556" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#af87ff" text-anchor="start">Captura privada en Android</text>
+<text id="texto-019" x="48" y="602" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">Registrar transacciones autorizadas con menos</text>
+<text id="texto-020" x="48" y="633" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">intervención manual.</text>
+<text id="texto-021" x="48" y="682" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">Captura automática desde notificaciones,</text>
+<text id="texto-022" x="48" y="713" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">procesamiento en el dispositivo y</text>
+<text id="texto-023" x="48" y="744" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">almacenamiento cifrado.</text>
+<path d="M48 754L604 754" stroke="#af87ff" stroke-width="1" opacity="0.45" fill="none"/>
+<text id="texto-024" x="48" y="788" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#b8c7d9" text-anchor="start">Kotlin · Android · Jetpack Compose</text>
+<text id="texto-025" x="48" y="822" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#af87ff" text-anchor="start">PRIVADO · DESARROLLO ACTIVO</text>
+<rect x="652" y="447" width="604" height="399" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="653" y="465" width="4" height="363" rx="2" fill="#5495ff" stroke="none" stroke-width="1"/>
+<g transform="translate(676 471) scale(0.875)" fill="none" stroke="#5495ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="14" cy="47" r="11"/><circle cx="50" cy="47" r="11"/><path d="m14 47 11-20h13l12 20M16 32h26M22 24h12m6-15h9l7 24M26 27l9 20H14"/></g>
+<text id="texto-026" x="753" y="508" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#f1f6ff" text-anchor="start">Garaje Android</text>
+<text id="texto-027" x="676" y="556" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#5495ff" text-anchor="start">Medición aplicada a movilidad</text>
+<text id="texto-028" x="676" y="602" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">Convertir señales GPS variables en mediciones</text>
+<text id="texto-029" x="676" y="633" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">útiles para motocicletas.</text>
+<text id="texto-030" x="676" y="682" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">Valida la calidad de la señal antes de estimar</text>
+<text id="texto-031" x="676" y="713" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">distancia y movimiento.</text>
+<path d="M676 754L1232 754" stroke="#5495ff" stroke-width="1" opacity="0.45" fill="none"/>
+<text id="texto-032" x="676" y="788" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#b8c7d9" text-anchor="start">Kotlin · Android · Jetpack Compose</text>
+<text id="texto-033" x="676" y="822" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#5495ff" text-anchor="start">PRIVADO · DESARROLLO ACTIVO</text>
+<rect x="24" y="870" width="1232" height="406" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="25" y="888" width="4" height="370" rx="2" fill="#86e3bd" stroke="none" stroke-width="1"/>
+<g transform="translate(48 894) scale(0.875)" fill="none" stroke="#86e3bd" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="10" y="27" width="44" height="32" rx="7"/><path d="M20 27V17a12 12 0 0 1 24 0v10"/><circle cx="32" cy="41" r="4"/><path d="M32 45v6"/></g>
+<text id="texto-034" x="125" y="931" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700" fill="#f1f6ff" text-anchor="start">Acceso-Controlado</text>
+<text id="texto-035" x="48" y="979" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#86e3bd" text-anchor="start">Base física y embebida</text>
+<text id="texto-036" x="48" y="1025" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#b8c7d9" text-anchor="start">Conectar entradas de usuario, detección y actuación en un prototipo físico.</text>
+<text id="texto-037" x="48" y="1074" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400" fill="#f1f6ff" text-anchor="start">Teclado, sensor infrarrojo, relé temporizado y pantalla I²C integrados con Arduino.</text>
+<path d="M48 1184L1232 1184" stroke="#86e3bd" stroke-width="1" opacity="0.45" fill="none"/>
+<text id="texto-038" x="48" y="1218" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#b8c7d9" text-anchor="start">Arduino · C++ · I²C</text>
+<text id="texto-039" x="48" y="1252" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#86e3bd" text-anchor="start">PÚBLICO · PROTOTIPO EMBEBIDO</text>
+</svg>

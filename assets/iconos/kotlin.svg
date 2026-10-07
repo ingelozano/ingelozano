@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 96" width="128" height="96" role="img" aria-labelledby="titulo descripcion"><title id="titulo">Kotlin</title><desc id="descripcion">Kotlin. Tecnología utilizada; no representa un porcentaje ni nivel de dominio.</desc>
+<defs><linearGradient id="fondo" x2="1" y2="1"><stop stop-color="#0b111e"/><stop offset="1" stop-color="#171329"/></linearGradient><linearGradient id="acento"><stop stop-color="#48e7ef"/><stop offset=".5" stop-color="#5495ff"/><stop offset="1" stop-color="#af87ff"/></linearGradient><radialGradient id="halo"><stop stop-color="#446bdd" stop-opacity=".28"/><stop offset="1" stop-color="#446bdd" stop-opacity="0"/></radialGradient><pattern id="rejilla" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#75a5f5" stroke-opacity=".08"/></pattern><filter id="brillo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect x="1" y="1" width="126" height="94" rx="12" fill="#10192b" stroke="#40516f" stroke-width="1"/>
+<path d="M14 2L114 2" stroke="#c294ff" stroke-width="3" opacity="1" fill="none"/>
+<!-- Logo de marca: Simple Icons, licencia CC0. -->
+<g transform="translate(45.0 15) scale(1.5833333333333333)" fill="#c294ff"><path xmlns="http://www.w3.org/2000/svg" d="M24 24H0V0h24L12 12Z"/></g>
+<text id="texto-000" x="64.0" y="79" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#c294ff" text-anchor="middle">Kotlin</text>
+</svg>

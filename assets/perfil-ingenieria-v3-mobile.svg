@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 1136" width="640" height="1136" role="img" aria-labelledby="titulo descripcion"><title id="titulo">Perfil de ingeniería de Frederick Lozano</title><desc id="descripcion">Competencias actuales: automatización y control; sistemas embebidos e integración; software; diseño y prototipado. Sistemas inteligentes: robótica, Edge AI, visión artificial y automatización inteligente en exploración.</desc>
+<defs><linearGradient id="fondo" x2="1" y2="1"><stop stop-color="#0b111e"/><stop offset="1" stop-color="#171329"/></linearGradient><linearGradient id="acento"><stop stop-color="#48e7ef"/><stop offset=".5" stop-color="#5495ff"/><stop offset="1" stop-color="#af87ff"/></linearGradient><radialGradient id="halo"><stop stop-color="#446bdd" stop-opacity=".28"/><stop offset="1" stop-color="#446bdd" stop-opacity="0"/></radialGradient><pattern id="rejilla" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#75a5f5" stroke-opacity=".08"/></pattern><filter id="brillo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<rect x="1" y="1" width="638" height="1134" rx="24" fill="url(#fondo)" stroke="#334568" stroke-width="1"/>
+<rect x="1" y="1" width="638" height="1134" rx="24" fill="url(#rejilla)" stroke="none" stroke-width="1"/>
+<ellipse cx="531.1999999999999" cy="249.92" rx="307.2" ry="795.1999999999999" fill="url(#halo)"/>
+<path d="M26 2H614" stroke="url(#acento)" stroke-width="3"/>
+<rect x="20" y="22" width="600" height="204" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="20" y="40" width="4" height="168" rx="2" fill="#48e7ef" stroke="none" stroke-width="1"/>
+<g transform="translate(44 50) scale(0.875)" fill="none" stroke="#48e7ef" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="6" width="54" height="52" rx="8"/><path d="M15 17h34M15 28h12m10 0h12M15 42h9v9h-9zm22 0h12v9H37z"/></g>
+<text id="texto-000" x="122" y="80" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#f1f6ff" text-anchor="start">Automatización y control</text>
+<text id="texto-001" x="44" y="144" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">PLC · Variadores de frecuencia</text>
+<text id="texto-002" x="44" y="179" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Sensores · Actuadores · Lógica de control</text>
+<rect x="20" y="244" width="600" height="204" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="20" y="262" width="4" height="168" rx="2" fill="#5495ff" stroke="none" stroke-width="1"/>
+<g transform="translate(44 272) scale(0.875)" fill="none" stroke="#5495ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><rect x="14" y="14" width="36" height="36" rx="6"/><rect x="23" y="23" width="18" height="18" rx="3"/><path d="M22 4v10m10-10v10m10-10v10M22 50v10m10-10v10m10-10v10M4 22h10M4 32h10M4 42h10M50 22h10M50 32h10M50 42h10"/></g>
+<text id="texto-003" x="122" y="302" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#f1f6ff" text-anchor="start">Embebidos e integración</text>
+<text id="texto-004" x="44" y="366" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Arduino · Raspberry Pi</text>
+<text id="texto-005" x="44" y="401" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Interfaces entre dispositivos</text>
+<rect x="20" y="466" width="600" height="204" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="20" y="484" width="4" height="168" rx="2" fill="#af87ff" stroke="none" stroke-width="1"/>
+<g transform="translate(44 494) scale(0.875)" fill="none" stroke="#af87ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m22 17-16 15 16 15m20-30 16 15-16 15M37 10 27 54"/></g>
+<text id="texto-006" x="122" y="524" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#f1f6ff" text-anchor="start">Ingeniería de software</text>
+<text id="texto-007" x="44" y="588" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Python · TypeScript · Kotlin · Rust</text>
+<text id="texto-008" x="44" y="623" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Aplicaciones de escritorio y móviles</text>
+<rect x="20" y="688" width="600" height="204" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="20" y="706" width="4" height="168" rx="2" fill="#48e7ef" stroke="none" stroke-width="1"/>
+<g transform="translate(44 716) scale(0.875)" fill="none" stroke="#48e7ef" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="m32 5 25 14v28L32 61 7 47V19Zm0 0v28m25-14L32 33 7 19m25 14v28"/></g>
+<text id="texto-009" x="122" y="746" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#f1f6ff" text-anchor="start">Diseño y prototipado</text>
+<text id="texto-010" x="44" y="810" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">SolidWorks · CAD mecánico</text>
+<text id="texto-011" x="44" y="845" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Impresión 3D · Prototipos funcionales</text>
+<rect x="20" y="910" width="600" height="204" rx="18" fill="#101a2d" stroke="#334665" stroke-width="1"/>
+<rect x="20" y="928" width="4" height="168" rx="2" fill="#af87ff" stroke="none" stroke-width="1"/>
+<g transform="translate(44 938) scale(0.875)" fill="none" stroke="#af87ff" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><path d="M10 58h44M18 58V47h28v11M32 47V35L16 23l9-11 25 13-8 11-10-1M50 25l9-9m-3-5 7 7"/><circle cx="32" cy="35" r="5"/><circle cx="23" cy="17" r="5"/></g>
+<text id="texto-012" x="122" y="968" font-family="Arial, Helvetica, sans-serif" font-size="31" font-weight="700" fill="#f1f6ff" text-anchor="start">Sistemas inteligentes</text>
+<text id="texto-013" x="122" y="1002" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#af87ff" text-anchor="start">EN EXPLORACIÓN</text>
+<text id="texto-014" x="44" y="1048" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Robótica · Edge AI · Visión artificial</text>
+<text id="texto-015" x="44" y="1083" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="400" fill="#b8c7d9" text-anchor="start">Automatización inteligente</text>
+</svg>
