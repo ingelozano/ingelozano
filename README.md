@@ -9,10 +9,10 @@ I build from a mechatronics perspective: physical inputs, actuator behavior and 
 
 ## Engineering Profile
 
-- **Automation & Control** — sensor-driven logic, timed actuation and physical I/O.
-- **Embedded & Device Integration** — microcontroller firmware and device-to-application interfaces.
+- **Automation & Control** — PLC, variable-frequency drives and control logic for sensors and actuators.
+- **Embedded & Device Integration** — microcontroller firmware, Raspberry Pi and device-to-application interfaces.
 - **Software Engineering** — local analysis, data validation and desktop/mobile tools.
-- **Design & Prototyping** — electronic components, firmware and operator feedback brought together in working prototypes.
+- **Design & Prototyping** — mechanical CAD with SolidWorks, 3D printing and functional prototyping.
 
 <img src="./assets/section-divider.svg" width="100%" alt="">
 
@@ -35,15 +35,17 @@ An Arduino access-control prototype combining keypad input, infrared sensing and
 
 ## Technical Stack
 
-| Domain | Tools used |
+| Domain | Tools / technologies |
 | :--- | :--- |
-| **Embedded & control** | Arduino · C++ · I²C |
+| **Automation & control** | PLC · Variable-frequency drives · Sensors / actuators |
+| **Embedded & connected systems** | Arduino · C++ · I²C · Raspberry Pi · Home Assistant |
 | **Software** | Python · TypeScript · Kotlin · Rust |
 | **Application development** | Android · Jetpack Compose · Tauri · Next.js |
+| **Design & prototyping** | SolidWorks · 3D printing |
 
 ## Current Focus
 
-**Building:** device inspection, repository evaluation and GPS ride measurement.<br>
+**Building:** local-first engineering tools, device-integrated applications and automation systems.<br>
 **Exploring:** intelligent automation, robotics, edge AI and computer vision.
 
 <img src="./assets/section-divider.svg" width="100%" alt="">
