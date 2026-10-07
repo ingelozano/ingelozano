@@ -1,27 +1,55 @@
-# 💫 About Me:
-👋 ¡Hola! Soy un ingeniero mecatrónico colombiano de 22 años con una pasión innata por la tecnología y la innovación. Cuento con habilidades en programación en Python, PLC y variadores de velocidad ⚙️, así como experiencia en robótica 🤖, automatización y domótica. Me dedico a desarrollar soluciones prácticas que optimizan procesos y mejoran la eficiencia en sistemas automatizados.<br><br>🌱 He trabajado en proyectos que integran motores eléctricos, Raspberry Pi 🖥️ e inteligencia artificial 🤖, buscando siempre simplificar tareas cotidianas y mejorar la funcionalidad de los sistemas. Mis habilidades en diseño en SolidWorks y fabricación con impresoras 3D 🛠️ me permiten llevar ideas a la realidad, creando prototipos funcionales que resuelven problemas concretos.<br><br>☀️ Además, tengo un interés particular en tecnologías para el aprovechamiento solar y en el desarrollo de sistemas energéticos sostenibles que puedan marcar la diferencia. Estoy en busca de oportunidades para aplicar mis conocimientos en proyectos que impulsen la innovación y la eficiencia tecnológica.<br><br>🚀 Siempre abierto a aprender y enfrentar nuevos desafíos, me gustaría conectar con profesionales del sector para explorar cómo puedo aportar valor a sus equipos. Si estás buscando un profesional comprometido, con una mentalidad abierta y un enfoque proactivo, ¡aquí estoy! ¡Conéctemos y hagamos algo increíble juntos!
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-hero-mobile.svg">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Frederick Lozano — Mechatronics Engineer. Automation, Robotics, AI and Software. Engineering the bridge between machines, intelligence and software.">
+</picture>
 
+**Frederick Lozano Torres** · Mechatronics Engineer · Bogotá, Colombia
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fredericklozano_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frederick-lozano-torres-76a262286) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Elingelozano) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/FREDERICKLOZA14) 
+I build systems that connect physical devices, control and software—from embedded prototypes to desktop and Android applications. My work combines electronics, automation and software engineering, with robotics and AI as areas of ongoing exploration.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ingelozano&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ingelozano&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ingelozano&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Engineering Profile
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ingelozano&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=4)
+- **Industrial & automation** — PLC programming, motor drives and control systems.
+- **Embedded & smart systems** — sensor inputs, actuator control, edge computing and home automation.
+- **Software engineering** — device inspection tools, native applications and tools for evaluating technical projects.
+- **Design & prototyping** — mechanical CAD and 3D printing to connect digital designs with physical prototypes.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<img src="./assets/section-divider.svg" width="100%" alt="">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ingelozano&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Selected Engineering Work
 
----
-[![](https://visitcount.itsvg.in/api?id=ingelozano&icon=8&color=6)](https://visitcount.itsvg.in)
+### [Embedded Access-Control Prototype](https://github.com/ingelozano/Acceso-Controlado)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Keypad input, infrared sensing and timed relay control in one embedded prototype, with an I²C LCD for operator feedback. **Arduino · C++ · I²C**
+
+### Projects in Development
+
+These projects are **Private / Active Development**; summaries describe their purpose without exposing implementation details.
+
+| Project | Engineering focus |
+| :--- | :--- |
+| **ESCUDO Inspector** | Local device inspection to make security findings easier to understand.<br><sub>Desktop tooling · Rust · TypeScript · Tauri</sub> |
+| **Garaje Android** | Motorcycle software connecting real-world use with mobile measurement.<br><sub>Android · Kotlin · Jetpack Compose</sub> |
+| **OpenScout** | Helps identify open-source projects for a technical need.<br><sub>Engineering software tools · TypeScript · Next.js</sub> |
+| **CreditCoach** | Personal finance software focused on automated recordkeeping and privacy.<br><sub>Android · Kotlin · Jetpack Compose</sub> |
+
+## Technical Stack
+
+| Domain | Tools used |
+| :--- | :--- |
+| **Embedded computing** | Arduino · C++ · Raspberry Pi |
+| **Automation & connected systems** | PLC · Variable-frequency drives · Home Assistant |
+| **Software** | Python · TypeScript · Kotlin · Rust |
+| **Application development** | Android · Jetpack Compose · Tauri · Next.js |
+| **Design & fabrication** | SolidWorks · 3D printing |
+
+## Current Focus
+
+**Building:** local-first systems, device inspection and engineering software tools.<br>
+**Exploring:** intelligent automation, robotics, edge AI and computer vision.
+
+<img src="./assets/section-divider.svg" width="100%" alt="">
+
+## Connect
+
+[GitHub](https://github.com/ingelozano) · [LinkedIn](https://linkedin.com/in/frederick-lozano-torres-76a262286)

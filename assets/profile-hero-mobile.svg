@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="632" viewBox="0 0 640 632" role="img" aria-labelledby="title desc">
+  <title id="title">Frederick Lozano — Mechatronics Engineer</title>
+  <desc id="desc">Automation, robotics, AI and software. Engineering the bridge between machines, intelligence and software. A mobile engineering panel with circuit traces and sensor-to-control imagery.</desc>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#101923"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="edge"><stop stop-color="#67e8f9"/><stop offset="1" stop-color="#2797ef"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3a5367" stroke-width=".7" opacity=".28"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="638" height="630" rx="20" fill="url(#panel)" stroke="#283744"/>
+  <rect x="32" y="420" width="576" height="184" fill="url(#grid)"/>
+  <path d="M40 34H190" stroke="url(#edge)" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="40" y="72" font-size="18" letter-spacing="2" fill="#a3b5c4">PHYSICAL SYSTEMS / INTELLIGENT SOFTWARE</text>
+    <text x="36" y="157" font-size="72" font-weight="700" letter-spacing="1" fill="#f0f6fc">FREDERICK</text>
+    <text x="34" y="248" font-size="94" font-weight="700" letter-spacing="3" fill="#f0f6fc">LOZANO</text>
+    <text x="40" y="302" font-size="28" font-weight="700" letter-spacing="1.5" fill="#67e8f9">MECHATRONICS ENGINEER</text>
+    <text x="40" y="350" font-size="21" letter-spacing=".6" fill="#bacbd8">AUTOMATION // ROBOTICS // AI // SOFTWARE</text>
+    <text x="40" y="399" font-size="26" fill="#d2dee8">Engineering the bridge between machines,</text>
+    <text x="40" y="434" font-size="26" fill="#d2dee8">intelligence and software.</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 536H180L208 508H278M40 558H168L194 584H278M364 508H424L452 480H594M364 552H454L480 578H594" stroke="#36a2d5" stroke-width="2"/>
+    <rect x="278" y="492" width="86" height="76" rx="5" stroke="#43748d" stroke-width="2" fill="#10222f"/>
+    <rect x="291" y="505" width="60" height="50" rx="3" stroke="#67e8f9" stroke-width="2" fill="#0d1923"/>
+    <path d="M301 492V480M321 492V480M341 492V480M301 568V580M321 568V580M341 568V580M278 516H266M278 540H266M364 516H376M364 540H376" stroke="#75c7e0" stroke-width="2"/>
+    <path d="M426 535H450L460 516L472 549L486 526L500 535H592" stroke="#47b8e9" stroke-width="2"/>
+    <circle cx="321" cy="530" r="8" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="40" cy="536" r="3" fill="#67e8f9"/><circle cx="594" cy="480" r="3" fill="#67e8f9"/>
+  </g>
+  <path d="M40 607H600" stroke="#203142"/>
+  <path d="M40 607H160" stroke="url(#edge)" stroke-width="2"/>
+</svg>

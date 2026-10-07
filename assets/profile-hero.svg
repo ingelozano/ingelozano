@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="496" viewBox="0 0 1280 496" role="img" aria-labelledby="title desc">
+  <title id="title">Frederick Lozano — Mechatronics Engineer</title>
+  <desc id="desc">Automation, robotics, AI and software. Engineering the bridge between machines, intelligence and software. Graphite engineering panel with cyan circuit traces, a processor and an articulated mechanism.</desc>
+  <defs>
+    <linearGradient id="panel" x2="1" y2="1">
+      <stop stop-color="#101923"/><stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="edge">
+      <stop stop-color="#67e8f9"/><stop offset=".5" stop-color="#2797ef"/><stop offset="1" stop-color="#163045"/>
+    </linearGradient>
+    <radialGradient id="field">
+      <stop stop-color="#123848" stop-opacity=".65"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#3a5367" stroke-width=".7" opacity=".23"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1278" height="494" rx="20" fill="url(#panel)" stroke="#283744"/>
+  <rect x="800" y="32" width="440" height="432" fill="url(#grid)"/>
+  <ellipse cx="1044" cy="248" rx="232" ry="232" fill="url(#field)"/>
+  <path d="M64 34H244" stroke="url(#edge)" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="70" font-size="17" letter-spacing="4" fill="#a3b5c4">PHYSICAL SYSTEMS / INTELLIGENT SOFTWARE</text>
+    <text x="60" y="154" font-size="76" font-weight="700" letter-spacing="1" fill="#f0f6fc">FREDERICK</text>
+    <text x="58" y="248" font-size="100" font-weight="700" letter-spacing="4" fill="#f0f6fc">LOZANO</text>
+    <text x="64" y="303" font-size="29" font-weight="700" letter-spacing="3" fill="#67e8f9">MECHATRONICS ENGINEER</text>
+    <text x="64" y="348" font-size="20" letter-spacing="2" fill="#bacbd8">AUTOMATION // ROBOTICS // AI // SOFTWARE</text>
+    <text x="64" y="410" font-size="25" fill="#d2dee8">Engineering the bridge between machines,</text>
+    <text x="64" y="443" font-size="25" fill="#d2dee8">intelligence and software.</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M800 64H872L902 94H956M1234 92H1188L1164 116V184M800 416H872L902 386H956M1234 400H1192L1164 372V304" stroke="#2b526a" stroke-width="2"/>
+    <path d="M822 190H890L922 222H974M824 210H862L896 244H974M1150 220H1184L1214 190H1234M1150 244H1198L1234 280" stroke="#36a2d5" stroke-width="2" opacity=".75"/>
+    <path d="M974 186V298H1086L1102 282V186Z" stroke="#43748d" stroke-width="2" fill="#10222f"/>
+    <rect x="990" y="202" width="96" height="80" rx="4" stroke="#67e8f9" stroke-width="2" fill="#0d1923"/>
+    <path d="M1006 186V174M1028 186V174M1050 186V174M1072 186V174M1006 298V310M1028 298V310M1050 298V310M1072 298V310M974 208H962M974 230H962M974 252H962M974 274H962M1102 208H1114M1102 230H1114M1102 252H1114M1102 274H1114" stroke="#75c7e0" stroke-width="2"/>
+    <path d="M1012 218H1064V266H1012Z M1012 234H996M1012 250H996M1064 234H1080M1064 250H1080M1030 218V207M1046 218V207M1030 266V277M1046 266V277" stroke="#2d88b3" stroke-width="1.5"/>
+    <circle cx="1038" cy="242" r="8" stroke="#67e8f9" stroke-width="2"/>
+    <path d="M928 142H1000L1032 110L1096 136L1140 102" stroke="#1e4963" stroke-width="15"/>
+    <path d="M928 142H1000L1032 110L1096 136L1140 102" stroke="#80d4e8" stroke-width="2"/>
+    <circle cx="1000" cy="142" r="8" fill="#132636" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="1032" cy="110" r="8" fill="#132636" stroke="#67e8f9" stroke-width="2"/>
+    <circle cx="1096" cy="136" r="8" fill="#132636" stroke="#67e8f9" stroke-width="2"/>
+    <path d="M1134 91L1148 101L1149 115M1148 101L1162 91" stroke="#67e8f9" stroke-width="2"/>
+    <path d="M902 142V154H943V142" stroke="#43748d" stroke-width="2"/>
+    <path d="M904 351H940L950 332L966 370L982 340L996 351H1026L1036 328L1053 370L1069 342L1082 351H1158" stroke="#47b8e9" stroke-width="2"/>
+    <path d="M904 381H1158M904 397H1158" stroke="#263e52" stroke-width="1"/>
+    <path d="M838 38H818V58M1218 38H1238V58M818 438V458H838M1238 438V458H1218" stroke="#4d7088" stroke-width="2"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="822" cy="190" r="3"/><circle cx="824" cy="210" r="3"/><circle cx="956" cy="94" r="3"/><circle cx="956" cy="386" r="3"/><circle cx="1234" cy="190" r="3"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3" fill="#9fb7c9">
+    <text x="884" y="69">SENSE / CONTROL / COMPUTE</text>
+    <text x="918" y="429">HARDWARE + SOFTWARE</text>
+  </g>
+  <path d="M64 477H1216" stroke="#203142"/>
+  <path d="M64 477H184" stroke="url(#edge)" stroke-width="2"/>
+</svg>
