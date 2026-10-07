@@ -77,7 +77,7 @@ Construyo desde la mecatrónica: el comportamiento físico, los sensores, los ac
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/enfoque-v3-mobile.svg">
-  <img src="./assets/enfoque-v3.svg" width="100%" alt="Construyendo: herramientas de ingeniería local-first, aplicaciones integradas con dispositivos y automatización. Explorando: robótica, Edge AI, visión artificial y automatización inteligente.">
+  <img src="./assets/enfoque-v3.svg" width="100%" alt="Construyendo: herramientas de ingeniería con prioridad local, aplicaciones integradas con dispositivos y automatización. Explorando: robótica, Edge AI, visión artificial y automatización inteligente.">
 </picture>
 
 ## 📊 GitHub / Actividad técnica
