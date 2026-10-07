@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="titulo descripcion"><title id="titulo">Actividad pública en GitHub</title><desc id="descripcion">Corte del 7 de octubre de 2026. 25 repositorios públicos. Lenguaje principal: Python en 20 repositorios, C++ en 3 y otros o sin lenguaje principal en 2. Se excluyen repositorios privados. Estos conteos no indican nivel de dominio.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-labelledby="titulo descripcion"><title id="titulo">Actividad técnica en GitHub</title><desc id="descripcion">Actividad técnica en GitHub. Lenguajes: Python, C++, TypeScript, Kotlin y Rust. Áreas: automatización, sistemas embebidos, Android y herramientas de ingeniería. Enfoque: hardware y software en proyectos prácticos.</desc>
 <defs><linearGradient id="fondo" x2="1" y2="1"><stop stop-color="#0b111e"/><stop offset="1" stop-color="#171329"/></linearGradient><linearGradient id="acento"><stop stop-color="#48e7ef"/><stop offset=".5" stop-color="#5495ff"/><stop offset="1" stop-color="#af87ff"/></linearGradient><radialGradient id="halo"><stop stop-color="#446bdd" stop-opacity=".28"/><stop offset="1" stop-color="#446bdd" stop-opacity="0"/></radialGradient><pattern id="rejilla" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#75a5f5" stroke-opacity=".08"/></pattern><filter id="brillo" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter></defs>
 <rect x="1" y="1" width="1278" height="358" rx="24" fill="url(#fondo)" stroke="#334568" stroke-width="1"/>
 <rect x="1" y="1" width="1278" height="358" rx="24" fill="url(#rejilla)" stroke="none" stroke-width="1"/>
@@ -6,22 +6,15 @@
 <path d="M26 2H1254" stroke="url(#acento)" stroke-width="3"/>
 <!-- Logo de marca: Simple Icons, licencia CC0. -->
 <g transform="translate(32 30) scale(1.75)" fill="#f1f6ff"><path xmlns="http://www.w3.org/2000/svg" d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></g>
-<text id="texto-000" x="92" y="63" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#f1f6ff" text-anchor="start">ACTIVIDAD PÚBLICA</text>
-<text id="texto-001" x="1248" y="62" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="400" fill="#b8c7d9" text-anchor="end">CORTE: 07 OCT 2026</text>
-<text id="texto-002" x="44" y="216" font-family="Arial, Helvetica, sans-serif" font-size="91" font-weight="700" fill="#48e7ef" text-anchor="start">25</text>
-<text id="texto-003" x="44" y="258" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#f1f6ff" text-anchor="start">repositorios públicos</text>
-<text id="texto-004" x="462" y="115" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#b8c7d9" text-anchor="start">Lenguaje principal del repositorio</text>
-<text id="texto-005" x="462" y="155" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#f1f6ff" text-anchor="start">Python</text>
-<text id="texto-006" x="1217" y="155" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#5495ff" text-anchor="end">20</text>
-<rect x="462" y="165" width="755" height="7" rx="3" fill="#223046" stroke="none" stroke-width="1"/>
-<rect x="462" y="165" width="755.0" height="7" rx="3" fill="#5495ff" stroke="none" stroke-width="1"/>
-<text id="texto-007" x="462" y="218" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#f1f6ff" text-anchor="start">C++</text>
-<text id="texto-008" x="1217" y="218" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#48e7ef" text-anchor="end">3</text>
-<rect x="462" y="228" width="755" height="7" rx="3" fill="#223046" stroke="none" stroke-width="1"/>
-<rect x="462" y="228" width="113.25" height="7" rx="3" fill="#48e7ef" stroke="none" stroke-width="1"/>
-<text id="texto-009" x="462" y="281" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#f1f6ff" text-anchor="start">Otros / sin lenguaje</text>
-<text id="texto-010" x="1217" y="281" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#af87ff" text-anchor="end">2</text>
-<rect x="462" y="291" width="755" height="7" rx="3" fill="#223046" stroke="none" stroke-width="1"/>
-<rect x="462" y="291" width="75.5" height="7" rx="3" fill="#af87ff" stroke="none" stroke-width="1"/>
-<text id="texto-011" x="32" y="331" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#b8c7d9" text-anchor="start">Solo datos públicos; no mide dominio técnico.</text>
+
+<text id="texto-000" x="92" y="63" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#f1f6ff" text-anchor="start">ACTIVIDAD TÉCNICA EN GITHUB</text>
+<text id="texto-001" x="44" y="115" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#48e7ef" text-anchor="start">LENGUAJES</text>
+<text id="texto-002" x="44" y="159" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#f1f6ff" text-anchor="start">Python · C++ · TypeScript · Kotlin · Rust</text>
+<path d="M44 184H1236" fill="none" stroke="url(#acento)" stroke-width="1" opacity=".55"/>
+<text id="texto-003" x="44" y="231" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#5495ff" text-anchor="start">ÁREAS</text>
+<text id="texto-004" x="44" y="273" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="400" fill="#f1f6ff" text-anchor="start">Automatización · Sistemas embebidos · Android</text>
+<text id="texto-005" x="730" y="231" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#af87ff" text-anchor="start">ENFOQUE</text>
+<text id="texto-006" x="730" y="273" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#f1f6ff" text-anchor="start">Hardware y software</text>
+<text id="texto-007" x="730" y="309" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="400" fill="#f1f6ff" text-anchor="start">en proyectos prácticos.</text>
+<text id="texto-008" x="44" y="331" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="400" fill="#b8c7d9" text-anchor="start">Código, prototipos y herramientas de ingeniería.</text>
 </svg>

@@ -84,7 +84,7 @@ Construyo desde la mecatrónica: el comportamiento físico, los sensores, los ac
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/actividad-v3-mobile.svg">
-  <img src="./assets/actividad-v3.svg" width="100%" alt="Datos públicos de GitHub al 7 de octubre de 2026: 25 repositorios. Lenguaje principal: Python en 20, C++ en 3, otros o sin lenguaje en 2. Los conteos excluyen proyectos privados y no representan nivel de dominio.">
+  <img src="./assets/actividad-v3.svg" width="100%" alt="Actividad técnica en GitHub. Lenguajes: Python, C++, TypeScript, Kotlin y Rust. Áreas: automatización, sistemas embebidos, Android y herramientas de ingeniería. Enfoque: hardware y software en proyectos prácticos.">
 </picture>
 
 <img src="./assets/section-divider-v3.svg" width="100%" alt="">
